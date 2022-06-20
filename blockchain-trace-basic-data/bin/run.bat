@@ -1,6 +1,6 @@
 @echo off
 echo.
-echo [信息] 运行Web工程。
+echo [锟斤拷息] 锟斤拷锟斤拷Web锟斤拷锟教★拷
 echo.
 
 cd %~dp0
