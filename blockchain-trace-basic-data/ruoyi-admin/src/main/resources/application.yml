@@ -18,7 +18,7 @@ ruoyi:
 # 开发环境配置
 server:
   # 服务器的HTTP端口，默认为8080
-  port: 8080
+  port: 8081
   servlet:
     # 应用的访问路径
     context-path: /
@@ -37,7 +37,7 @@ fdfs:
     width: 60
     height: 60
   tracker-list: 127.0.0.1:22122
-  address: 127.0.0.1
+  address: http://127.0.0.1:8888/
 
 # 日志配置
 logging:
